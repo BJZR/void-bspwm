@@ -15,8 +15,8 @@ Para instalar este entorno en Void Linux (versión base), sigue estos pasos:
 2. **Clona este repositorio**
 
    ```bash
-   git clone https://github.com/BJZR/Void-bspwm.git
-   cd Void-bspwm
+   git clone https://github.com/BJZR/void-bspwm.git
+   cd void-bspwm
    ```
 
 3. **Da permisos de ejecución al script**
